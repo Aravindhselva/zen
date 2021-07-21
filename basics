@@ -1,0 +1,38 @@
+1. 5 diff. b/w JavaScript & Node js 
+
+  1. JavaScript is a client side coding. 
+  1. Node js is server side coding. 
+
+  2. Jave script is a language. 
+  2. Node js is not a language it has a v8 engine that runs java script on the server side.
+
+  3. Javescrit runs inside the browser
+  3. Node js runs outside the browser
+
+  4. Js mainly used for client side activity for web application and to provide dynamic changes in webpages
+  4. Node js used to perform non-blocking operation like creating or exciting or running any backend job
+ 
+  5. Js is Upgraded version of EXAMS script that uses chrome V8 engine written in c++
+  5. Node js is written in c , c++ & JavaScript.
+
+2. It-necessary-to-write-head-body-and-html-tags
+     Ommiting HTML head & body tag was allowed by Hmtl specs.
+     In the old version there is no using of head and body tags .
+     Later version html2.0 did it.
+     A body element's end tag may be omitted if the body element is not immediately followed by a comment
+     A body element's start tag may be omitted if the element is empty, or if the first thing inside the body element is not a space character or a comment, except if the first thing inside the body element is a script or style element.
+     A head start tag may be omitted if the element is empty
+     A head end tag may be omitted head element is not followed by character or comment 
+     Html element start tag can ommited when thing inside the html is not a comment
+     Html element end tag can be omitted when the html element is immediately not followed by comment
+
+4. 4) Execute the bellow code and write your description in txt file
+        typeof(1)   = number
+        typeof(1.1) = number
+        typeof('1.1') = string
+        typeof(true) = boolean
+        typeof(null) = object
+        typeof(undefined) = undefined
+        typeof([]) = array 
+        typeof({}) = simple object -keyvalue pair 
+        typeof(NaN) = number
